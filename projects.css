@@ -1,0 +1,46 @@
+body {
+   color:white;
+   font-family: 'Playfair Display', serif; /* font of page */
+   /*adds background image to page*/
+   background-image: url(src/img/IMG_2096.JPG), url(src/img/IMG_2127.JPG), url(src/img/IMG_2173.JPG), url(src/img/IMG_2192.JPG) ;
+   background-position: right top, left bottom, right bottom, left top;
+   background-size: 25%, 25%, 25%, 25%;
+   background-attachment: fixed;
+   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+   /*adds a black border around text*/
+   /* profile pic */
+}
+
+
+*, *::before, *::after {
+   box-sizing: border-box;
+ }
+ 
+ article {
+   background-color: black;
+   margin: 5% 25%;
+   padding: 2em;
+   box-shadow: .5em .5em .4em 0 rgba(66, 60, 60, 0.6);
+   position: relative;
+   cursor: pointer;
+ }
+ 
+ body {
+   font-family: 'Frank Ruhl Libre', serif, sans-serif;
+   color:white;
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   width: 100%;
+ }
+ 
+ h1 {
+   margin: 3em 0 0;
+   text-align: center;
+   color: black;
+ }
+ 
+ h2 {
+   color: rgb(235, 82, 82);
+ }
+ 

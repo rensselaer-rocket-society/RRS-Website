@@ -1,0 +1,25 @@
+{
+     "nav": [
+        {
+           "navName": "./src/img/rrs-logo-4.png",
+           "navURL": "homepage.html"
+        },      
+        {
+           "navName": "current",
+           "navURL": "current_projects.html"
+        }, 
+        {
+           "navName": "past",
+           "navURL": "past_projects.html"
+        },
+        {
+         "navName": "eboard",
+         "navURL": "eboard.html"           
+        },
+        {
+         "navName": "calendar",
+         "navURL": "calendar.html"           
+        }
+
+      ]
+ }
